@@ -1,0 +1,19 @@
+{
+  "name": "FFMM",
+  "version": "1.0.0",
+  "description": "A p5js browser-based Famous Fred's Monster Merchandise, development planned similar to that of FF-JS-Port",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mulch-est/FFMM-web.git"
+  },
+  "author": "mulch-est",
+  "bugs": {
+    "url": "https://github.com/mulch-est/FFMM-web/issues"
+  },
+  "homepage": "https://github.com/mulch-est/FFMM-web#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
